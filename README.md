@@ -6,13 +6,14 @@ Robo Friends in a React.js web application which is a Card UI and have different
 
 Technologies Used: 
 + React 
-+ Axios 
-+ Vanilla JavaScript 
++ Tachyons
 
 Learned: 
-+ Build PWA 
-+ Service Worker 
-+ 
++ React Components 
++ React Card List 
++ Search Capabilities using Mapping 
++ Change State of App
++ Fetch User Information and Image from Robohash API 
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
