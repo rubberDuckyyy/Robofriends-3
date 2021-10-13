@@ -16,3 +16,5 @@ Learned:
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+![robofriends-3](https://user-images.githubusercontent.com/68490255/137123735-2393ebb1-57d5-4c9e-9ba9-e6e516b541e4.jpg)
